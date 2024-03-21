@@ -1,0 +1,6 @@
+create a new file  mahi branch 
+git fetch
+ls
+git checkout mahi
+git merge
+ls
